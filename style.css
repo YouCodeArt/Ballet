@@ -1,0 +1,9 @@
+body {
+  background: radial-gradient(
+    circle at center,
+    #eed7ce 0,
+    #ffc4e1,
+    #ffc4e1 100%
+  );
+  text-align: center;
+}
